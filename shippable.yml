@@ -10,7 +10,7 @@ services:
   - rethinkdb
 
 notifications:
-     email:
-         recipients:
-             - exampleone@org.com
-             - exampletwo@org.com
+  email:
+    varsha@shippable.com
+  irc:
+    "chat.freenode.net#test-irc"
