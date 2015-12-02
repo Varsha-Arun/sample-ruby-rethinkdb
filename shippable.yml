@@ -12,5 +12,4 @@ services:
 notifications:
   email:
     varsha@shippable.com
-  irc:
-    - "chat.freenode.net#test-irc"
+  irc: "chat.freenode.net#test-irc"
